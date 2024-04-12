@@ -1,0 +1,28 @@
+p{
+    color:blueviolet;
+    width 500px;
+    background-color: rgb(135, 172, 93);
+    padding: 10px;
+    border: 2px solid rgb(31, 44, 1);
+  }
+
+  h2 {color: rgba(9, 201, 111, 0.822);}
+
+  body{
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  section{ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+menuitem {
+    text-decoration: line-through;
+    color: rgb(46, 161, 238);
+    padding: 11px;
+    display: grid;
+}
+
+menuitem:hover {
+    background-color: blue;
+    transition: all o,4 ease-in-out;
+}
